@@ -1,0 +1,31 @@
+body {
+    color: #414141;               /* Dark gray */
+    background-color: #EEEEEE;    /* Light gray */
+    font-size: 10pt;
+}
+
+h1 {
+    font-size: 15pt;
+}
+
+div {
+    background-color: #CFCFCF;
+    padding: 15px;
+    border: 2px solid #414141;
+    margin: 10px;
+}
+
+.title {
+    font-size: 2em;
+    background-color: #CFCFCF;
+    padding: 15px;
+    border: 2px solid #414141;
+}
+
+img {
+    width: 15em;
+    float: left;
+    background-color: #CFCFCF;
+    border: 2px solid #414141;
+    margin-right: 10px;
+}
