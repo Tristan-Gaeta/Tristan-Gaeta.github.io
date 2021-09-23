@@ -2,30 +2,32 @@ body {
     color: #414141;               /* Dark gray */
     background-color: #EEEEEE;    /* Light gray */
     font-size: 10pt;
+    width: 1000px;
+    margin: 0 auto;
 }
 
 h1 {
     font-size: 15pt;
 }
 
-div {
+.box {
     background-color: #CFCFCF;
     padding: 15px;
     border: 2px solid #414141;
-    margin: 10px;
 }
 
 .title {
     font-size: 2em;
-    background-color: #CFCFCF;
-    padding: 15px;
-    border: 2px solid #414141;
+}
+
+.text {
+    float: left;
+    width: 10000;
+    border-left: 0px;
 }
 
 img {
-    width: 15em;
     float: left;
-    background-color: #CFCFCF;
+    width: 15em;
     border: 2px solid #414141;
-    margin-right: 10px;
 }
