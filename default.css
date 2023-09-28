@@ -26,6 +26,12 @@ h1 {
     margin-left: 1em;
 }
 
+.pdf {
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+}
+
 img {
     float: left;
     width: 15em;
